@@ -58,7 +58,7 @@ This portfolio website represents my commitment to becoming a skilled front-end 
 
 #OUTPUT:
 
-![Image]()
+![Image](https://github.com/user-attachments/assets/164670dd-a0fc-4dec-b462-89b11f0921fe)
 
 
 
