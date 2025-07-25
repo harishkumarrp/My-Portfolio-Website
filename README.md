@@ -27,8 +27,6 @@ HTML5: Used to build the structure of the website. All the elements such as head
 
 CSS3: Used for styling the website. CSS enabled layout control, colors, fonts, spacing, and responsiveness using Flexbox and media queries.
 
-JavaScript (Vanilla JS): Used for adding interactivity (e.g., menu toggle in mobile view and console logs).
-
 VS Code: The entire project was coded using Visual Studio Code, which provided an efficient development environment with extensions like Live Server, Prettier, and Emmet.
 
 Git: Git was used for version control, allowing smooth tracking of code changes throughout the development process.
